@@ -6,6 +6,7 @@ export default function Home() {
   const [response, setResponse] = useState('');
   const [query, setQuery] = useState('');
 
+
   useEffect(() => {
     const delayDebounceFn = setTimeout(() => {
       const updateDeals = async () => {
