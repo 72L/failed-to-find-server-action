@@ -1,5 +1,3 @@
-'use server';
-
 import ClientComp from './ClientComp';
 
 export default async function Home() {
