@@ -15,7 +15,7 @@ export default function Home() {
           }
         }
       >
-        Click me
+        Click me!
       </button>
       <div className="text-center">
         {response}
